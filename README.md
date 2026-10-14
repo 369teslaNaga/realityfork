@@ -6,7 +6,9 @@
 
 **A local-first browser lab for counterfactual motion experiments.**
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-ccfb67.svg)](LICENSE) ![Status: Experimental Beta](https://img.shields.io/badge/status-experimental_beta-87ddff.svg) ![No Paid APIs](https://img.shields.io/badge/paid_APIs-none-ccfb67.svg)
+[![License: MIT](https://img.shields.io/badge/license-MIT-ccfb67.svg)](LICENSE) ![Status: Experimental Beta](https://img.shields.io/badge/status-experimental_beta-87ddff.svg) [![Verification](https://github.com/369teslaNaga/realityfork/actions/workflows/ci.yml/badge.svg)](https://github.com/369teslaNaga/realityfork/actions/workflows/ci.yml) ![No Paid APIs](https://img.shields.io/badge/paid_APIs-none-ccfb67.svg)
+
+### [▶ Try the Live Interactive Demo](https://369teslanaga.github.io/realityfork/) · [Watch the 15-second Demo](assets/realityfork-launch-teaser.mp4) · [View the Code](https://github.com/369teslaNaga/realityfork)
 
 **Observe → Fork → Compare → Inspect → Share**
 
@@ -16,9 +18,15 @@ Created by **369 Tesla · Kalviyogi** · Open source · No account · No user-vi
 
 </div>
 
-## Publish as a new public repository
+## Try it in 30 seconds — no installation
 
-**Windows:** extract the release archive and double-click **`Publish-RealityFork-Windows.cmd`** after installing Git for Windows and GitHub CLI (`gh`). The script verifies the connected owner **`369teslaNaga`**, refuses to overwrite an existing repo, and creates `369teslaNaga/realityfork` as **public** with all project files. It attempts to configure GitHub Pages; check the workflow and real public URL before sharing it. See [English instructions](docs/PUBLIC_RELEASE.md) or [Tamil guide](docs/TAMIL_RELEASE_GUIDE.md).
+1. **[Open RealityFork](https://369teslanaga.github.io/realityfork/)** and click **Try Moon gravity**. The side-by-side trajectories are based on a **synthetic sample**.
+2. Open **MaterialFork** and select **Rubber**, or open **WindFork** and move the wind slider. See how the model changes.
+3. Open **RealityShare** to export a PNG experiment card, then show someone the two worlds.
+
+Want to test motion from your own footage? Upload a **short, high-contrast ball video** inside the browser. Tracking is experimental, and footage is not sent to a server. See the [steps below](#bring-your-own-video-experimental).
+
+**[↗ Live lab](https://369teslanaga.github.io/realityfork/)** · **[▶ 15-second synthetic demo](assets/realityfork-launch-teaser.mp4)** · **[How it works](docs/SCIENCE.md)** · **[Contribute](CONTRIBUTING.md)**
 
 ## The 10-second idea
 
@@ -32,7 +40,7 @@ What if that ball you dropped on Earth bounced on the Moon? **RealityFork** lets
 npm run dev
 ```
 
-Open **http://127.0.0.1:5173**. Alternatively, serve the directory with any static HTTP server. No API keys, CDN scripts, account or database are required. For deployed demos, publish this static folder to GitHub Pages (instructions in [PUBLIC_RELEASE.md](docs/PUBLIC_RELEASE.md)). The GitHub Pages URL does **not exist** until you actually publish it.
+Open **http://127.0.0.1:5173**. Alternatively, serve the directory with any static HTTP server. No API keys, CDN scripts, account or database are required. The public GitHub Pages deployment uses [`.github/workflows/static.yml`](.github/workflows/static.yml).
 
 > Start on the **synthetic sample**. Click *Try Moon gravity*, choose *Rubber* in MaterialFork, experiment with wind, pause/step in TimeFork and export a card in RealityShare.
 
@@ -106,6 +114,10 @@ This is a public **experimental beta**, not a commercially validated physics rec
 ## Contribute
 
 Issues, source improvements, open-license test clips and numerical physics tests are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md); do not include private video data in public reports. If you discover a vulnerability, consult [SECURITY.md](SECURITY.md).
+
+## Share the experiment
+
+If this made you curious, **try one experiment and share the result** rather than sharing only the repository link. The best intro is a 10-second side-by-side comparison: *Earth vs. Moon gravity*. Use the [launch media and copy](docs/LAUNCH_COPY.md); see the [public launch playbook](docs/LAUNCH_CAMPAIGN.md) for ethical distribution and ways to improve the project from real feedback.
 
 ## Launch-ready assets
 
