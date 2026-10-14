@@ -17,6 +17,7 @@
 | WebM 5-second local derived-path clip | Experimental | Browser MediaRecorder-dependent; manual browser validation recommended |
 | Accurate 3D video-to-simulation from arbitrary camera footage | **Not implemented** | Research project, not in beta |
 | AI object recognition / pose estimation | **Not implemented** | Not claimed |
-| Public GitHub repository / hosted Pages site | **Not published by this archive** | Maintainer must publish |
+| Public GitHub repository | Published | [Source repository](https://github.com/369teslaNaga/realityfork) |
+| GitHub Pages demo | Deployed; external browser validation still recommended | [Interactive lab](https://369teslanaga.github.io/realityfork/) |
 
 The app runs offline *after its static files have been loaded*, and does not use external APIs. Browser codec support and MediaRecorder availability differ by platform.
