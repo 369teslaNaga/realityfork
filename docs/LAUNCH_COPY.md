@@ -1,4 +1,4 @@
-# Public launch text — ready to post AFTER repository and demo exist
+# Public launch copy — RealityFork beta
 
 ## English — X / LinkedIn launch
 
@@ -12,8 +12,8 @@ Introducing **RealityFork** — an open-source, local-first browser lab where yo
 
 It's an experimental beta: color tracking works best on short high-contrast clips, and the alternate path is a simulation, not edited video.
 
-🔗 GitHub: [INSERT YOUR LIVE REPOSITORY LINK]
-🔗 Demo: [INSERT YOUR VERIFIED LIVE DEMO LINK]
+🔗 GitHub: https://github.com/369teslaNaga/realityfork
+🔗 Demo: https://369teslanaga.github.io/realityfork/
 
 Built by 369 Tesla × Kalviyogi.
 
@@ -25,7 +25,7 @@ What if a ball you dropped today bounced on the Moon? 🌕
 
 I built **RealityFork**: 6 open-source, local-first experiments to rewrite gravity, bounce, time and wind — then inspect and share the counterfactual model. No paid API.
 
-Demo: [LIVE DEMO] · Code: [GITHUB]
+Demo: https://369teslanaga.github.io/realityfork/ · Code: https://github.com/369teslaNaga/realityfork
 
 ## Hacker News
 
@@ -35,7 +35,7 @@ Demo: [LIVE DEMO] · Code: [GITHUB]
 
 Hi HN. I built RealityFork with 369 Tesla · Kalviyogi as a browser-first science toy. The immediate demo is synthetic: press Moon and see a side-by-side model diverge. There are six modes, including gravity, time, material restitution, wind, motion analysis and exporting a Reality Card. A short high-contrast video can be analyzed with a deliberately simple, local RGB tracker; we're clear about its limitations and the fact that the alternate world is a model, not generative video editing.
 
-The app has no backend, paid APIs or user-video upload, and the code/physics tests are available here: [GITHUB]. Try it: [LIVE DEMO]. I'd especially appreciate input on making measurement confidence and camera-plane calibration less misleading.
+The app has no backend, paid APIs or user-video upload, and the code/physics tests are available here: https://github.com/369teslaNaga/realityfork. Try it: https://369teslanaga.github.io/realityfork/. I'd especially appreciate input on making measurement confidence and camera-plane calibration less misleading.
 
 ## Tamil launch copy
 
@@ -47,8 +47,8 @@ GravityFork, TimeFork, MaterialFork, WindFork, MotionDNA, RealityShare — ஆ�
 
 குறிப்பு: இது 2D Physics Model அடிப்படையிலான மாற்றுக் காட்சியாகும்; நிஜ வீடியோவை AI மூலம் மாற்றியது அல்ல. Color Tracking இன்னும் experimental.
 
-GitHub: [உண்மையான repository link]
-Live Demo: [உண்மையான demo link]
+GitHub: https://github.com/369teslaNaga/realityfork
+Live Demo: https://369teslanaga.github.io/realityfork/
 
 **Change the laws. Fork reality.**
 
